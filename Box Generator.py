@@ -80,6 +80,7 @@ def drawbox(length, text):
 def asktext():
     global askedtext
     askedtext = input("What would you want your text to be? > ")
+    confirm()
 def textconfirmed():
     global textlength, askedtext
     # textlength + 4 (2 spaces on either side of text before border.)
