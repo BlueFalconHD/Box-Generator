@@ -79,6 +79,7 @@ def drawbox(length, text):
 
 def asktext():
     global askedtext
+    print("\n")
     askedtext = input("What would you want your text to be? > ")
     print("\n")
     confirm()
@@ -104,8 +105,6 @@ def confirm():
 #####################
 
 
-
-print("\n")
 asktext()
 input("Thanks for using box generator! - Hayes D.")
     
