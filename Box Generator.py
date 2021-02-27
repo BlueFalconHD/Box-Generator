@@ -105,7 +105,7 @@ def confirm():
 
 
 
-
+print("\n")
 asktext()
 input("Thanks for using box generator! - Hayes D.")
     
