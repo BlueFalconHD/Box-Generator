@@ -1,4 +1,23 @@
-[alt text]()
-A python script to generate boxes using unicode.
-------
-Examples
+![alt text](https://github.com/BlueFalconHD/Box-Generator/blob/main/assets/logo%20white.png)
+======
+
+
+#### A python script to generate boxes using unicode.
+
+
+
+Examples:
+
+```
+╭────────────────────────────────────────────────────────────╮
+│               Hello, this is Box Generator.                │
+╰────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────────────────────────────────────────╮
+│                     I made this because I love unicode boxes,                      │
+╰────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────────────────────────────────────────╮
+│                    But I couldn't find a generator online.                     │
+╰────────────────────────────────────────────────────────────────────────────────╯
+```
