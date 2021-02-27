@@ -105,6 +105,5 @@ def confirm():
 
 
 asktext()
-confirm()
 input("Thanks for using box generator! - Hayes D.")
     
