@@ -21,3 +21,14 @@ Examples:
 │                    But I couldn't find a generator online.                     │
 ╰────────────────────────────────────────────────────────────────────────────────╯
 ```
+------
+## Box generator is easy to use.
+
+![alt text](https://github.com/BlueFalconHD/Box-Generator/blob/main/assets/boxgen%20easy.png)
+------
+## Box generator centers text and resizes boxes so they look great!
+```
+╭──────────────────────────────────────────────────────────────────────────────────────────────╮
+│                        LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONG TEXT                        │
+╰──────────────────────────────────────────────────────────────────────────────────────────────╯ 
+```
