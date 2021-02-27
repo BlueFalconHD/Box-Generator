@@ -80,21 +80,23 @@ def drawbox(length, text):
 def asktext():
     global askedtext
     askedtext = input("What would you want your text to be? > ")
+    print("\n")
     confirm()
 def textconfirmed():
     global textlength, askedtext
     # textlength + 4 (2 spaces on either side of text before border.)
     textlength = len(askedtext)
-    print("Length:" + str(textlength))
+    print("Length:" + str(textlength) + "\n")
     drawbox(textlength, askedtext)
 def confirm():
     global askedtext, confirminput
     # 'Are you sure you want your text to be "' + askedtext + '"? (y/n) > '
     confirminput = input('Are you sure you want your text to be "' + askedtext + '"? (y/n) > ')
     if confirminput == "Y" or confirminput == "y":
-        print("Confirmed!")
+        print("\nConfirmed!\n")
         textconfirmed()
     elif confirminput == "N" or confirminput == "n":
+        
         asktext()
     else:
         print("ERROR - Expected : [Y,y,N,n]")
