@@ -1,4 +1,4 @@
-![alt text](https://github.com/BlueFalconHD/Box-Generator/blob/main/assets/logo%20white.png)
+![alt text](https://github.com/BlueFalconHD/Unicode-Box-Generator/blob/main/assets/box%20gen%20logo.png "Box Generator - Logo")
 ======
 
 
