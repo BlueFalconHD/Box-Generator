@@ -32,3 +32,16 @@ Examples:
 │                        LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONG TEXT                        │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────╯ 
 ```
+
+## You can even make file structures by adding dashes in beetween them!
+```
+BEST FILE EVER!!!!
+
+╭──────╮      ╭────────────╮      ╭────────────╮      ╭────────────────────╮
+│  C:  │ ---- │   Users    │ ---- │   hjdom    │ ---- │     virus.exe      │
+╰──────╯      ╰────────────╯      ╰────────────╯      ╰────────────────────╯
+
+```
+
+
+
